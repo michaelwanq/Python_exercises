@@ -30,7 +30,6 @@ class Restaurant():
 
     def increment_number_served(self, additional_served):
         """让用户能够增加就餐人数。"""
-
         self.number_served += additional_served
 
 restaurant = Restaurant('克茗冰室','香港茶餐厅')
