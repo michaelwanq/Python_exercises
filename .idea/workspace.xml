@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5f26a16-f07a-454e-b24d-0798444346e0" name="变更" comment="20230118 commit">
-      <change afterPath="$PROJECT_DIR$/20230118/Python_9_5_尝试登录次数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230118/Python_9_6_冰激凌小店.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20230118/Python_9_4_就餐人数.py" beforeDir="false" afterPath="$PROJECT_DIR$/20230118/Python_9_4_就餐人数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,6 +183,7 @@
       <workItem from="1673994349729" duration="756000" />
       <workItem from="1674022545371" duration="7468000" />
       <workItem from="1674042875538" duration="4963000" />
+      <workItem from="1674084337984" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="20230117 commit">
       <created>1673958822216</created>
