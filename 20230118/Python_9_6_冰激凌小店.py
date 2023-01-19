@@ -31,18 +31,19 @@ class Restaurant():
 
 
 class IceCreamStand(Restaurant):
-    """一个表示冰激凌小店的类。"""
-
-    def __init__(self, name, cuisine_type='ice_cream'):
-        """初始化冰激凌小店。"""
-        super().__init__(name, cuisine_type)
-        self.flavors = []
-
-    def show_icecream(self):
-        """显示冰激凌口味列表"""
-        print(f'冰激凌口味有： {self.flavors}')
-
-
-icecream = ['草莓味', '香草味', '巧克力味', '海盐味']
-IceCreamStand.flavors = icecream
-IceCreamStand.show_icecream
+     """一个表示冰激凌小店的类。"""
+     def __init__(self, name, cuisine_type='ice_cream'):
+         """初始化冰激凌小店。"""
+         super().__init__(name, cuisine_type)
+         self.flavors = []
+     def show_flavors(self):
+         """显示出售的冰激凌品种。"""
+         print("\nWe have the following flavors available:")
+         print(self.flavors)
+         # for flavor in self.flavors:
+         #    print(f"- {flavor.title()}")
+big_one = IceCreamStand('The Big One')
+icecream = ['vanilla', 'chocolate', 'black cherry']
+big_one.flavors = icecream
+big_one.describe_restaurant()
+big_one.show_flavors()
