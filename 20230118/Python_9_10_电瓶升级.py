@@ -88,8 +88,6 @@ my_tesla = ElectricCar('tesla', 'roadster', 2019)
 my_tesla.battery.describe_battery()
 print("\nUpgrade the battery, and check it again:")
 my_tesla.battery.upgrade_battery()
-练习答案
-·76·
 my_tesla.battery.describe_battery()
 print("\nTry upgrading the battery a second time.")
 my_tesla.battery.upgrade_battery()
