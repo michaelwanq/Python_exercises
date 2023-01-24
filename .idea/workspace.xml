@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5f26a16-f07a-454e-b24d-0798444346e0" name="变更" comment="20230119 新练习提交">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_10_常见单词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_11_喜欢的数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_12_记住喜欢的数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_13_验证用户.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_1_Python学习笔记.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_2_C语言学习笔记.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_3_访客.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_4_访客名单.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_5_调查.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_6_加法运算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_7_加法计算器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_8_猫和狗.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python_10_9_静默的猫和狗.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/Python第十章练习" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/cats.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/dogs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/favorite_number.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/guest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/guest_book.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/learning_python.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/programming_poll.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/reason.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20230121/username.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20230123/city_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20230123/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20230123/python_11_1_城市和国家.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20230123/python_11_2_人口数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20230123/python_11_3_雇员.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20230123/python编程第十一章练习.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python编程_从入门到实践/勾股业务库存底单0111已分配人员---定价表WQ.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/python_exercises&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -79,8 +60,8 @@
       <recent name="D:\python_exercises\20230118" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Python_10_13_验证用户">
-    <configuration name="Python_10_10_常见单词" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python 测试.Python 测试 (python_11_3_雇员.py 内)">
+    <configuration name="city_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +69,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230121" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230123" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20230121/Python_10_10_常见单词.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20230123/city_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,101 +83,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python_10_11_喜欢的数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python 测试 (python_11_1_城市和国家.py 内)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230121" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230123" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20230121/Python_10_11_喜欢的数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/20230123/python_11_1_城市和国家.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python_10_12_记住喜欢的数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python 测试 (python_11_3_雇员.py 内)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230121" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230123" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20230121/Python_10_12_记住喜欢的数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/20230123/python_11_3_雇员.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python_10_13_验证用户" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_11_1_城市和国家.CitiesTestCase 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230121" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230123" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20230121/Python_10_13_验证用户.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;python_11_1_城市和国家.CitiesTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python_10_9_静默的猫和狗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_11_1_城市和国家.CitiesTestCase.test_city_country 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230121" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20230123" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20230121/Python_10_9_静默的猫和狗.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;python_11_1_城市和国家.CitiesTestCase.test_city_country&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Python_10_13_验证用户" />
-        <item itemvalue="Python.Python_10_12_记住喜欢的数" />
-        <item itemvalue="Python.Python_10_11_喜欢的数" />
-        <item itemvalue="Python.Python_10_10_常见单词" />
-        <item itemvalue="Python.Python_10_9_静默的猫和狗" />
+        <item itemvalue="Python 测试.Python 测试 (python_11_3_雇员.py 内)" />
+        <item itemvalue="Python 测试.python_11_1_城市和国家.CitiesTestCase.test_city_country 的 Python 测试" />
+        <item itemvalue="Python 测试.python_11_1_城市和国家.CitiesTestCase 的 Python 测试" />
+        <item itemvalue="Python 测试.Python 测试 (python_11_1_城市和国家.py 内)" />
+        <item itemvalue="Python.city_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +176,10 @@
       <workItem from="1674340370731" duration="6147000" />
       <workItem from="1674426942528" duration="2860000" />
       <workItem from="1674437940698" duration="2189000" />
+      <workItem from="1674462467901" duration="276000" />
+      <workItem from="1674463164199" duration="2064000" />
+      <workItem from="1674512380161" duration="1012000" />
+      <workItem from="1674523998511" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="20230117 commit">
       <created>1673958822216</created>
@@ -294,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674172124993</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20230119 新练习提交">
+      <created>1674462480744</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674462480744</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,27 +298,30 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_exercises$Python_9_5_.coverage" NAME="Python_9_5_尝试登录次数 覆盖结果" MODIFIED="1674045806039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_10_4_.coverage" NAME="Python_10_4_访客名单 覆盖结果" MODIFIED="1674266609237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_8_16_.coverage" NAME="Python_8_16_导入 覆盖结果" MODIFIED="1673994866476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230115" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_10_9_.coverage" NAME="Python_10_9_静默的猫和狗 覆盖结果" MODIFIED="1674347109022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_10_7_.coverage" NAME="Python_10_7_加法计算器 覆盖结果" MODIFIED="1674342736800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_10_11_.coverage" NAME="Python_10_11_喜欢的数 覆盖结果" MODIFIED="1674438048359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_9_1_.coverage" NAME="Python_9_1_餐馆 覆盖结果" MODIFIED="1674026267976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_10_5_.coverage" NAME="Python_10_5_调查 覆盖结果" MODIFIED="1674341883463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$.coverage" NAME=" 覆盖结果" MODIFIED="1674526082239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230123" />
+    <SUITE FILE_PATH="coverage/python_exercises$Python_9_3_.coverage" NAME="Python_9_3_用户 覆盖结果" MODIFIED="1674028455778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_3_.coverage" NAME="Python_10_3_访客 覆盖结果" MODIFIED="1674263947987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_8_15_.coverage" NAME="Python_8_15_打印模型 覆盖结果" MODIFIED="1673994716632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230115" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_9_6_.coverage" NAME="Python_9_6_冰激凌小店 覆盖结果" MODIFIED="1674047821067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_10_4_.coverage" NAME="Python_10_4_访客名单 覆盖结果" MODIFIED="1674266609237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_9_4_.coverage" NAME="Python_9_4_就餐人数 覆盖结果" MODIFIED="1674043689949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_8_16_.coverage" NAME="Python_8_16_导入 覆盖结果" MODIFIED="1673994866476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230115" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_10_9_.coverage" NAME="Python_10_9_静默的猫和狗 覆盖结果" MODIFIED="1674347109022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$python_11_1_.coverage" NAME="python_11_1_城市和国家 覆盖结果" MODIFIED="1674465223246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230123" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_1_Python.coverage" NAME="Python_10_1_Python学习笔记 覆盖结果" MODIFIED="1674262085265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_2_C.coverage" NAME="Python_10_2_C语言学习笔记 覆盖结果" MODIFIED="1674263531164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
+    <SUITE FILE_PATH="coverage/python_exercises$city_functions.coverage" NAME="city_functions 覆盖结果" MODIFIED="1674525974651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230123" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_13_.coverage" NAME="Python_10_13_验证用户 覆盖结果" MODIFIED="1674440167766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_8_.coverage" NAME="Python_10_8_猫和狗 覆盖结果" MODIFIED="1674347081423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_9_9_.coverage" NAME="Python_9_9_电瓶升级 覆盖结果" MODIFIED="1674169356216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_10_7_.coverage" NAME="Python_10_7_加法计算器 覆盖结果" MODIFIED="1674342736800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_10_.coverage" NAME="Python_10_10_常见单词 覆盖结果" MODIFIED="1674428913100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_10_11_.coverage" NAME="Python_10_11_喜欢的数 覆盖结果" MODIFIED="1674438048359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_9_1_.coverage" NAME="Python_9_1_餐馆 覆盖结果" MODIFIED="1674026267976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_12_.coverage" NAME="Python_10_12_记住喜欢的数 覆盖结果" MODIFIED="1674438091198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_9_10_.coverage" NAME="Python_9_10_导入 覆盖结果" MODIFIED="1674171131138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_10_5_.coverage" NAME="Python_10_5_调查 覆盖结果" MODIFIED="1674341883463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Pytho_8_4_T.coverage" NAME="Pytho_8_4_大号T恤 覆盖结果" MODIFIED="1673960608034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230115" />
-    <SUITE FILE_PATH="coverage/python_exercises$Python_9_3_.coverage" NAME="Python_9_3_用户 覆盖结果" MODIFIED="1674028455778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_10_6_.coverage" NAME="Python_10_6_加法运算 覆盖结果" MODIFIED="1674342352289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230121" />
     <SUITE FILE_PATH="coverage/python_exercises$Python_9_2_.coverage" NAME="Python_9_2_三家餐馆 覆盖结果" MODIFIED="1674027418658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20230118" />
   </component>
